@@ -1,0 +1,3 @@
+post_id,content,ai_decision,admin_decision,reason
+1,Nội dung bình thường,APPROVED,APPROVED,Chính xác
+2,Bài ranh giới bị AI bắt nhầm,REJECTED,APPROVED,AI nhầm lẫn ngữ cảnh học tập
